@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.rule"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete.rule"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build.rule"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure.rule"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download.rule"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install.rule"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch.rule"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test.rule"
+		},
+		{
+			"file" : "/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"catch2-populate"
+		],
+		"name" : "catch2-populate"
+	}
+}

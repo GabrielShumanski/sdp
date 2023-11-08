@@ -1,0 +1,3 @@
+/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
+/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+/home/ga4o/SDP/sdp/sdp-2023-24/homework/hw1/template/build/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir
